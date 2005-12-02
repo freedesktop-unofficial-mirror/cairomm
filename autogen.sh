@@ -1,6 +1,6 @@
 #! /bin/sh
 
-# $Id: autogen.sh,v 1.1 2005-12-02 13:34:41 murrayc Exp $
+# $Id: autogen.sh,v 1.1.1.1 2005-12-02 13:34:41 murrayc Exp $
 #
 # Copyright (c) 2002  Daniel Elstner  <daniel.elstner@gmx.net>
 #
